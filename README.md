@@ -12,7 +12,7 @@
 - **Location:** Kenya 🇰🇪
 - **Interests:**
   - 🖥️ All things **Software Development**
-  - 🌌 world of **code, anime, and cyberpunk vibes** with a touch of **Catppuccin aesthetics.**  
+  - 🌌 world of **code, anime and a touch of Catppuccin aesthetics.**  
   - 📚 Learning New Technologies
   - 🐧 Linux and Android enthusiast
 
