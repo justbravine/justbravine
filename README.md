@@ -4,15 +4,16 @@
   <img src="https://capsule-render.vercel.app/api?text=Hello%20World!&animation=fadeIn&type=waving&color=gradient&height=100" alt="Animated Banner"/>
 </p>
 
-```yaml
-name: "Just Bravine"
-title: "Second Year Software Student"
-location: "Your City, Your Country"
-interests:
-  - Software Development
-  - Open Source Contribution
-  - Learning New Technologies
-fun_fact: "I code almost as fast as I brew my coffee!"
+## About Me
+- **Name:** Just Bravine
+- **Title:** Second Year Software Student
+- **Location:** Your City, Your Country
+- **Interests:**
+  - 🖥️ Software Development
+  - 🌍 Open Source Contribution
+  - 📚 Learning New Technologies
+- **Fun Fact:** I code almost as fast as I brew my coffee! ☕
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=justbravine&show_icons=true&theme=radical" alt="JustBravine's GitHub Stats" />
