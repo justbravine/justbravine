@@ -1,7 +1,5 @@
-## Hi there 👋
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hello%20World!&animation=fadeIn&type=waving&color=gradient&height=100" alt="Animated Banner"/>
+  <img src="https://imgur.com/a/AbPt2UG" alt="GitHub Banner" width="100%"/>
 </p>
 
 ## About Me
