@@ -15,7 +15,7 @@
 - **leveling up—just like Sung Jin-Woo!**   
 - **Fun Fact:** **"My code runs smoother than Sung Jin-Woo taking down a dungeon boss." ⚡💀**
 
-### Connect with me:
+# Connect with me:
 
 [![website](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
