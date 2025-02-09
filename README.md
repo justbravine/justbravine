@@ -21,12 +21,14 @@
 </p>
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin" alt="Random Dev Quote"/>
-</p>
-<p align="center">
-  <img src="https://vercel.com/justbravines-projects/spotify-github-profile/97Viv79fF3qBB9mBL9kStDLnnWji" alt="Now Playing on Spotify"/>
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31pwr6mafxmjg7qvs7y6dgt7fwdm&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=true" alt="Now Playing on Spotify"/>
+  </a>
 </p>
 
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin" alt="Random Dev Quote"/>
+</p>
 
 
 
