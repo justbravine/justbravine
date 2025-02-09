@@ -7,12 +7,13 @@
 - **Title:** Second Year Software Student
 - **Location:** Kenya 🇰🇪
 - **Interests:**
+  - 🖥️ All things **Software Development**
+  - 🌌 world of **code, anime, and cyberpunk vibes** with a touch of **Catppuccin aesthetics.**  
   - 📚 Learning New Technologies
-  - 🐧Linux
-  - 📱 Android 
-  - 🖥️ Software Development
-  - 🌍 Open Source projects
-- **Fun Fact:** "My code runs smoother than Sung Jin-Woo taking down a dungeon boss." ⚡💀
+  - 🐧 Linux and Android enthusiast
+
+- **leveling up—just like Sung Jin-Woo!**   
+- **Fun Fact:** **"My code runs smoother than Sung Jin-Woo taking down a dungeon boss." ⚡💀**
 
 
 <p align="center">
