@@ -3,14 +3,16 @@
 </p>
 
 ## About Me
-- **Name:** Just Bravine
+- **Name:**BRAVINE OBUYA
 - **Title:** Second Year Software Student
-- **Location:** Your City, Your Country
+- **Location:** Kenya 🇰🇪
 - **Interests:**
-  - 🖥️ Software Development
-  - 🌍 Open Source Contribution
   - 📚 Learning New Technologies
-- **Fun Fact:** I code almost as fast as I brew my coffee! ☕
+  - 🐧Linux
+  - 📱 Android 
+  - 🖥️ Software Development
+  - 🌍 Open Source projects
+- **Fun Fact:** "My code runs smoother than Sung Jin-Woo taking down a dungeon boss." ⚡💀
 
 
 <p align="center">
