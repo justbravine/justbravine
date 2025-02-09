@@ -15,22 +15,31 @@
 - **leveling up—just like Sung Jin-Woo!**   
 - **Fun Fact:** **"My code runs smoother than Sung Jin-Woo taking down a dungeon boss." ⚡💀**
 
-### Connect with me:
+## Connect with me:
 
-[![website](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
+[![website](./img/youtube-light.svg)](https://youtube.com/#gh-light-mode-only)
+[![website](./img/youtube-dark.svg)](https://youtube.com/#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/youtube-light.svg)](https://youtube.com/codestackr#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://youtube.com/codestackr#gh-dark-mode-only)
+[![website](./img/twitter-light.svg)](https://twitter.com/#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
+[![website](./img/instagram-light.svg)](https://instagram.com/datboii_bravine#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://instagram.com/datboii_bravine#gh-dark-mode-only)
+
+## Languages :
+
+<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px; pointer-events: none; cursor: default;" />
+<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px; pointer-events: none; cursor: default;" />
+<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px; pointer-events: none; cursor: default;" />
+<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px; pointer-events: none; cursor: default;" />
+<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px; pointer-events: none; cursor: default;" />
+<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px; pointer-events: none; cursor: default;" />
+<img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" style="padding-right:10px; pointer-events: none; cursor: default;" />
+
+<br clear="left"/>
 
 ## 🔥 Stats
 <p align="center">
@@ -40,9 +49,11 @@
 
 ## 🎵 Now Playing on Spotify  
 <p align="left">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31pwr6mafxmjg7qvs7y6dgt7fwdm&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31pwr6mafxmjg7qvs7y6dgt7fwdm&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" alt="Spotify Now Playing"/>https://i.imgur.com/c7C0Fl9.gif
+  <a href="https://open.spotify.com/user/31pwr6mafxmjg7qvs7y6dgt7fwdm">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31pwr6mafxmjg7qvs7y6dgt7fwdm&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing"/>
   </a>
+</p>
+  
 </p>
 
 ## 💡 Dev Quote of the Day 
