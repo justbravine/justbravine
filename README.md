@@ -8,7 +8,7 @@
 <br>
 </p>
 
-- **Title:** Second Year Software Student
+- **Title:** Second Year Software Engineering Student
 - **Location:** Kenya 🇰🇪
 - **Interests:**
   - 🖥️ All things **Software Development**
