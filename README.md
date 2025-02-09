@@ -3,7 +3,7 @@
 </p>
 
 ## About Me
-- **Name:**BRAVINE OBUYA
+- **Name:** BRAVINE OBUYA
 - **Title:** Second Year Software Student
 - **Location:** Kenya 🇰🇪
 - **Interests:**
