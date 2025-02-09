@@ -24,7 +24,7 @@
 ## 🎵 Now Playing on Spotify  
 <p align="left">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31pwr6mafxmjg7qvs7y6dgt7fwdm&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31pwr6mafxmjg7qvs7y6dgt7fwdm&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" alt="Spotify Now Playing"/>
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31pwr6mafxmjg7qvs7y6dgt7fwdm&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" alt="Spotify Now Playing"/>https://i.imgur.com/c7C0Fl9.gif
   </a>
 </p>
 
@@ -34,7 +34,7 @@
 </div>
 
 <p align="center">
-  <img src="https://i.imgur.com/c7C0Fl9.gif" alt="Footer Banner"/>
+  <img src=" " alt="Footer Banner"/>
 </p>
 
 
