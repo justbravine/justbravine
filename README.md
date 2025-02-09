@@ -19,9 +19,14 @@
   <img src="https://github-readme-stats.vercel.app/api?username=justbravine&show_icons=true&theme=catppuccin" alt="GitHub Stats" height="180px"/>
   <img src="https://streak-stats.demolab.com/?user=justbravine&theme=catppuccin" alt="GitHub Streak" height="180px"/>
 </p>
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=justbravine&theme=catppuccin" alt="Contribution Graph"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin" alt="Random Dev Quote"/>
 </p>
+<p align="center">
+  <img src="https://vercel.com/justbravines-projects/spotify-github-profile/97Viv79fF3qBB9mBL9kStDLnnWji" alt="Now Playing on Spotify"/>
+</p>
+
 
 
 
