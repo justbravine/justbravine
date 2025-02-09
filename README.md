@@ -33,9 +33,6 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin" alt="Random Dev Quote"/>
 </div>
 
-<p align="center">
-  <img src=" " alt="Footer Banner"/>
-</p>
 
 
 
