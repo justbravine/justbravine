@@ -26,9 +26,10 @@
   </a>
 </p>
 
-<p align="center">
+<div style="text-align: center; max-width: 600px; margin: auto;">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin" alt="Random Dev Quote"/>
-</p>
+</div>
+
 
 
 
