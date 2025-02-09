@@ -37,7 +37,9 @@
 
 ## 🎵 Now Playing on Spotify  
 <p align="left">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31pwr6mafxmjg7qvs7y6dgt7fwdm&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing"/>
+  <a href="https://open.spotify.com/user/31pwr6mafxmjg7qvs7y6dgt7fwdm">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31pwr6mafxmjg7qvs7y6dgt7fwdm&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing"/>
+  </a>
 </p>
   
 </p>
