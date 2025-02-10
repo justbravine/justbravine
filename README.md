@@ -16,7 +16,7 @@
   - 📚 Learning New Technologies
   - 🐧 Linux and Android enthusiast
 
-- **leveling up—just like Sung Jin-Woo!**   
+- **leveling up—!**   
 - **Fun Fact:** **"My code runs smoother than Sung Jin-Woo taking down a dungeon boss." ⚡💀**
 <div align="center">
 <br><br>
