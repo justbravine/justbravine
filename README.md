@@ -26,6 +26,9 @@
 
 ## Connect with me:
 
+[![website](./img/instagram-light.svg)](https://instagram.com/datboii_bravine#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://instagram.com/datboii_bravine#gh-dark-mode-only)
+&nbsp;&nbsp;
 [![website](./img/youtube-light.svg)](https://youtube.com/#gh-light-mode-only)
 [![website](./img/youtube-dark.svg)](https://youtube.com/#gh-dark-mode-only)
 &nbsp;&nbsp;
@@ -34,9 +37,8 @@
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/datboii_bravine#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/datboii_bravine#gh-dark-mode-only)
+
+
 
 ## Languages :
 
