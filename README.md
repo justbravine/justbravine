@@ -1,6 +1,6 @@
-## <p align="center">
-  ## <img src="https://i.imgur.com/H1OhwbI.jpeg" alt="GitHub Banner" width="100%"/>
-## </p>
+ <p align="center">
+   <img sc="https://i.imgur.com/H1OhwbI.jpeg" lt="GitHub Banner" width="100%"/>
+ </p>
 
 ## About Me
 <p align="center">
