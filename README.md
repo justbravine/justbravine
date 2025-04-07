@@ -1,8 +1,8 @@
- <p align="center">
+ <!-- <p align="center">
    <img src="https://i.imgur.com/H1OhwbI.jpeg" alt="GitHub Banner" width="100%"/>
  </p>
 
-## About Me
+## About Me -->
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hello+hello;I'm+Bravine%2C+a+linux++and+android+enthusiast+%E2%9C%A9"  width="100%" />
 <br>
@@ -60,12 +60,12 @@
   <img src="https://streak-stats.demolab.com/?user=justbravine&theme=catppuccin" alt="GitHub Streak" height="180px"/>
 </p>
 
-## 🎵 Now Playing on Spotify  
+<!-- ## 🎵 Now Playing on Spotify  
 <p align="left">
   <a href="https://open.spotify.com/user/31pwr6mafxmjg7qvs7y6dgt7fwdm">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31pwr6mafxmjg7qvs7y6dgt7fwdm&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing"/>
   </a>
-</p>
+</p> -->
   
 </p>
 
