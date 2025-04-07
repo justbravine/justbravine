@@ -57,7 +57,7 @@
 ## 🔥 Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=justbravine&show_icons=true&theme=catppuccin" alt="GitHub Stats" height="180px"/>
-  <img src="https://streak-stats.demolab.com/?user=justbravine&theme=catppuccin" alt="GitHub Streak" height="180px"/>
+  <!-- <img src="https://streak-stats.demolab.com/?user=justbravine&theme=catppuccin" alt="GitHub Streak" height="180px"/> -->
 </p>
 
 <!-- ## 🎵 Now Playing on Spotify  
