@@ -71,7 +71,7 @@
 
 <br clear="left"/>
 
-## 🔥 Stats
+##  Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=justbravine&show_icons=true&theme=catppuccin" alt="GitHub Stats" height="180px"/>
   <!-- <img src="https://streak-stats.demolab.com/?user=justbravine&theme=catppuccin" alt="GitHub Streak" height="180px"/> -->
@@ -86,7 +86,7 @@
   
 </p>
 
-## 💡 Dev Quote of the Day 
+##  Dev Quote of the Day 
 <div style="text-align: center; max-width: 600px; margin: auto;">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin" alt="Random Dev Quote"/>
 </div>
