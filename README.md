@@ -24,8 +24,8 @@
   - **Currently,** I have an idea to convert an old somehow unusable laptop into a Linux home server, which functions as a NAS, media server, and can also act as a host 🐧
 
 - **Content Creation**: I enjoy writing guides about topics or issues i have personally encountered. I'd also like to contibute to the OSS community where possible.
-  - [Android_tinkering](https://github.com/justbravine/android_tinkering)
-  - [Rooting guide](https://github.com/justbravine/android_tinkering/blob/main/rooting_guide.md)
+  - [Android_Tinkering](https://github.com/justbravine/android_tinkering)
+  - [Rooting Guide](https://github.com/justbravine/android_tinkering/blob/main/rooting_guide.md)
 
 <div align="center">
 <br><br>
