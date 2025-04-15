@@ -1,8 +1,8 @@
  <!-- <p align="center">
    <img src="https://i.imgur.com/H1OhwbI.jpeg" alt="GitHub Banner" width="100%"/>
  </p>
-
 ## About Me -->
+![](https://komarev.com/ghpvc/?username=justbravine&style=for-the-badge)  
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hello+hello;I'm+Bravine%2C+a+linux++and+android+enthusiast+%E2%9C%A9"  width="100%" />
 <br>
@@ -10,14 +10,23 @@
 
 - **Title:** Second Year Software Engineering Student
 - **Location:** Kenya 🇰🇪
-- **Interests:**
-  - 🖥️ All things **Software Development**
-  - 🌌 world of **code, anime and a touch of Catppuccin aesthetics.**  
-  - 📚 Learning New Technologies
-  - 🐧 Linux and Android enthusiast
+  
+## My Interests :)
+- **Android Customization**: Performance optimizations, Building Kernels & recoveries, and tweaking.
+- **🐧 Kernel Development**:compiling custom kernels including Nethunter & KernelSU Kernels
+  - tutorials coming soon
+- **Linux Proficiency**: daily driving [Fedora Linux](https://www.fedoraproject.org/) btw
+- **Scripting**: Automating daily tasks and creating tools for improved productivity.  
+- **PC Hardware & Software**: Enthusiast in fixing almost any software related issue with Windows PCs and tecno devices.
+  - **Hardware:** not a guru in repairing laptops and computers but i can get it done.
+- **System Administration**: Interested in building linux home servers for my own personal use because why not?
 
-- **leveling up—!**   
-- **Fun Fact:** **"My code runs smoother than Sung Jin-Woo taking down a dungeon boss." ⚡💀**
+  - **Currently,** I have an idea to convert an old somehow unusable laptop into a Linux home server, which functions as a NAS, media server, and can also act as a host 🐧
+
+- **Content Creation**: I enjoy writing guides about topics or issues i have personally encountered. I'd also like to contibute to the OSS community where possible.
+  - [Android_tinkering](https://github.com/justbravine/android_tinkering)
+  - [Rooting guide](https://github.com/justbravine/android_tinkering/blob/main/rooting_guide.md)
+
 <div align="center">
 <br><br>
 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
