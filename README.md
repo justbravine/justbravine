@@ -16,7 +16,7 @@
 <br>
 </p>
 
-- **Title:** Second Year Software Engineering Student
+- **Title:** Third Year Software Engineering Student
 - **Location:** Kenya 🇰🇪
   
 ## My Interests :)
